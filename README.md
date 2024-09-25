@@ -1,6 +1,6 @@
 # FlaskServer
 
-## Performance Test Assignment
+### Performance Test Assignment
 performance testing for a service that is deployed on a 
 cloud platform and configured for auto-scaling. The service has only 3 APIs: 
 1. The get login API returns a session id

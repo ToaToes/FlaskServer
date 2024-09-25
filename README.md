@@ -23,8 +23,7 @@ Run your Flask API in a terminal:
 python flask_api.py
 ```
 
-Step 2: Create a Locust File
-Step 3: Running Locust File
+Step 2: Running Locust File
 
 ```
 locust -f locustfile.py --host=http://localhost:5000  # Adjust host if necessary
